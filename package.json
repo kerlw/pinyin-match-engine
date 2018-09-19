@@ -1,0 +1,19 @@
+{
+  "name": "pinyin-match-engine",
+  "version": "1.0.0",
+  "description": "支持匹配位置、长度的拼音匹配引擎",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kerlw/pinyin-match-engine"
+  },
+  "keywords": [
+    "pinyin"
+  ],
+  "author": "kerl.d.w@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kerlw/pinyin-match-engine/issues"
+  },
+  "homepage": "https://github.com/kerlw/pinyin-match-engine#readme"
+}
