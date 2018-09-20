@@ -1,6 +1,6 @@
 {
   "name": "pinyin-match-engine",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "支持匹配位置、长度的拼音匹配引擎",
   "main": "src/index.js",
   "repository": {
