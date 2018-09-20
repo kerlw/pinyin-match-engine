@@ -207,8 +207,8 @@ export default class Engine {
         let acronyms = [];
         const keywords = [[], []]
 
-        for (const char of words) {
-            const pinyin = dict[char];
+        for (let i = 0; i < words.length; i++) {
+            const pinyin = dict[words[i]];
             if (pinyin) {
                 keywords[0].push(pinyin);
                 if (words.length > 1) {
